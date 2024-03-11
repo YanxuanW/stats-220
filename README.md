@@ -1,6 +1,7 @@
 #UoA stats 220
 
 ##About me
+
 I am a sophomore at the University of Auckland, majoring in Data Science.
 
 ##Hobbies
