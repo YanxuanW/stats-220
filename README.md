@@ -2,7 +2,7 @@
 
 ##About me
 
--I am a freshman at the University of Auckland in February 2023, currently studying Data Science.
+I am a freshman at the University of Auckland in February 2023, currently studying Data Science.
 
 
 ##Hobbies
