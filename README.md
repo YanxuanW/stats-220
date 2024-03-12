@@ -3,6 +3,7 @@ This is used for statistical 220.
 ## About me
 
 I am a sophomore at the University of Auckland, majoring in Data Science.
+
 In this term I have study:
 1. statistic 220 [UoA Course Outlines]https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243
 2. statistic 201
