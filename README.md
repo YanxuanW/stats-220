@@ -10,6 +10,7 @@ In this term I have study:
 4. physics 102
 ## Hobbies
 - **1.Music** [YTB]https://www.youtube.com/watch?v=bNKXxwOQYB8
-- _2.running_
+- _2.running_![image](https://github.com/YanxuanW/stats-220/assets/162859492/c2717d86-84de-4e98-b5bd-46da53efee21)
+
 
 
